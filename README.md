@@ -1,7 +1,7 @@
 # 🌎 Global Airbnb Trends & Performance Dashboard
 A Power BI project analysing global Airbnb listings and guest reviews to uncover market trends, host performance, and customer behaviour across global cities.
 
-![alt text](image/MainPage.png)
+![alt text](MainPage.png)
 
 ## 📌 Project Overview 
 Discover key insights from Airbnb listings, ratings, and guest reviews to understand market trends and customer behaviour across global cities. This report covers **2,79,712 listings** across **10 cities**, **1,82,024 hosts**, **144 property types**, and **5.37M reviews**
@@ -43,11 +43,11 @@ An analysis of review activity, seasonality, and host trustworthiness:
 carry both trust signals(verification + profile photo)
 
 ## 📷 Preview
-![alt text](image/MainPage.png)
-![alt text](image/Overview.png)
-![alt text](image/overall.png)
-![alt text](image/Detaied.png)
-![alt text](image/Reviews.png)
+![alt text](MainPage.png)
+![alt text](Overview.png)
+![alt text](overall.png)
+![alt text](Detaied.png)
+![alt text](Reviews.png)
 
 ## Acknowledgments 
 This Project was built by following a Power BI tutorial by Mansi Goel on Youtube.
